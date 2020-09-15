@@ -60,3 +60,6 @@ crashlytics-build.properties
 
 # Import Assets and import from Github
 ImportAssets/
+
+# Import Asset "aura2"
+Aura 2/
