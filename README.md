@@ -1,4 +1,4 @@
-# 消えた街とがらんどうの巨人(The Missing City and Hollowness Giant)
+# 消えた街と伽藍洞(がらんどう)の巨人(The Missing City and Hollowness Giant)
 自主制作のゲームです。
 
 ## Rough sketch
