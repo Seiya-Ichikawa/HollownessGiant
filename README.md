@@ -1,5 +1,6 @@
 # 消えた街と伽藍洞(がらんどう)の巨人(The Missing City and Hollowness Giant)
 自主制作のゲームです。
+![DemoScreenShot02](https://user-images.githubusercontent.com/62211872/94445972-05b6c480-01e3-11eb-86e6-22ef8114703c.png)  
 
 ## Rough sketch
 ![HollownessGiant01](https://user-images.githubusercontent.com/62211872/92919860-35886d00-f46c-11ea-9ab5-c54722589b53.png)  
