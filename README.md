@@ -2,6 +2,8 @@
 自主制作のゲームです。
 ![DemoScreenShot02](https://user-images.githubusercontent.com/62211872/94445972-05b6c480-01e3-11eb-86e6-22ef8114703c.png)  
 
+https://github.com/Seiya-Ichikawa/HollownessGiant/assets/62211872/980214c1-afe0-44eb-afd9-a16976031f20
+
 ## Rough sketch
 ![HollownessGiant01](https://user-images.githubusercontent.com/62211872/92919860-35886d00-f46c-11ea-9ab5-c54722589b53.png)  
 消えた街のラフスケッチ
